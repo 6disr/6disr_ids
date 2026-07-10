@@ -1,0 +1,5 @@
+fx_version 'cerulean'
+game 'gta5'
+author '@6disr'
+description 'Proper ID System'
+client_script 'client.lua'
